@@ -1,1 +1,1 @@
-this project is boko33's idea thanks in advance.
+this project is based on [boko33](https://bokoko33.me/) idea.
